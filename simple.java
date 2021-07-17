@@ -1,7 +1,7 @@
 public class simple {
      public static void main(String[] args){
     
-     System.out.Println("Hello Caltech");
+     System.out.Println("R2 Release");
     }
 
 
